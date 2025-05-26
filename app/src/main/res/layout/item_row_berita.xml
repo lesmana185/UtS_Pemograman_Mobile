@@ -8,8 +8,6 @@
     android:elevation="7dp"
     app:cardCornerRadius="7dp">
 
-
-
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cvw_ImgNews"
                         android:layout_width="wrap_content"
@@ -24,7 +22,7 @@
                             android:layout_height="100dp"
                             android:scaleType="centerCrop"
                             android:scrollbarAlwaysDrawHorizontalTrack="false"
-                            app:srcCompat="@drawable/img_news2" />
+                            app:srcCompat="@drawable/img_news1" />
 
                     </androidx.cardview.widget.CardView>
 
