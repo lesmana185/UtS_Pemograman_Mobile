@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi_uts_mobile</string>
+    <string name="sub_judul_login">Silahkan login untuk melanjutkan</string>
+    <string name="sub_judul_daftar">Selamat bergabung dengan kami</string>
+    <string name="var_contdesc">contdesc</string>
+    <string name="judul_headline">Judul Headline</string>
+    <string name="deskripsi_headline">Deskripsi Headline</string>
+
+
+
+
+
+
+
+
+
+</resources>
+
